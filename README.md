@@ -1,7 +1,7 @@
 # Water catchment prototypes of the Carbon Neutrality Project
 When it comes down to large scale restoration with native tree species, water availability is truly a key impediment. Without it, tree mortality is huge, and if you have it, the cost of deploying it to individual trees is commonly prohibited given the scale desire.
 
-RainCatcher is a device developed for the purpose of collecting enough rainwater to irrigate individual trees constantly for as long as the device remains deployed. Also, the device is easy to deploy and affordable. Additionally, it can be reused, which reduce cost of irrigation over time. This is a tool in development. The two key goals are to make irrigation accessible in terms of cost for large scale planting operation where maintenance it low to none. 
+RainCatcher is a device developed for the purpose of collecting enough rainwater to irrigate individual trees constantly for as long as the device remains deployed. Also, the device is easy to deploy and affordable. Additionally, it can be reused, which reduce cost of irrigation over time. This is a tool in development. The two key goals are to make irrigation accessible in terms of cost for large scale planting operations where maintenance is low to none. 
 
 ## Rationale:
 RainCatcher is one idea being developed to overcome the massive tree mortality we have when planting trees with volunteers. One can easily capitalize on the manpower of volunteers to plant trees, but the needed irrigation after planting remains a critical limitation to unleash the planting potential of people at large.
@@ -82,4 +82,4 @@ It turns out that one can make a part much cheaper using injection Molding. But 
 This version above is the most promising one. It can be put around the tree to control weeds, it has large of an area to collect water and the tank can store up to 50 litters. It is basically, a kid’s inflatable pool with a canopy. It will cost only $1.5 per unit. More on this soon.
 
 
-RainCatcher is being developed by Camilo Mora. Thanks to Asryelle Mora Rollo and Audrey Rollo for their help doing several of the pilots. 
+RainCatcher is being developed by Camilo Mora, Asryelle Mora Rollo and Audrey Rollo. 
